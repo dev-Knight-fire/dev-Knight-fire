@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubhranshu+Arya!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from The United Kingdom 🇬🇧</h3>
+<h3 align="center">A passionate software developer from Hanoi, Vietnam </h3>
 
 <div align="center"> 
   <a href="shubhranshuarya@gmail.com">
@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Shubhranshu Arya** , a developer based in London, specializing in financial technology with a focus on AI-driven solutions. With a background in full-stack development and an MSc. in FinTech, I’m dedicated to leveraging advanced technology to create impactful solutions that address real-world challenges. I love learning about new technologies and enjoy finding creative ways to use what I’ve learned to make a positive difference.
+Hi, I'm **Anh Quan Khuat** , a developer based in London, specializing in financial technology with a focus on AI-driven solutions. With a background in full-stack development and an MSc. in FinTech, I’m dedicated to leveraging advanced technology to create impactful solutions that address real-world challenges. I love learning about new technologies and enjoy finding creative ways to use what I’ve learned to make a positive difference.
 
 ---
 
@@ -85,13 +85,13 @@ My current research focused on developing a fraud detection model for Ethereum t
 ---
 
 ## 📈 GitHub Stats
-![Shubhranshu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhranshuArya&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranshuArya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-Knight-fire&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Knight-fire&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🌐 Connect with Me
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in innovative software solutions. Feel free to reach out to me via [email](shubhranshuarya@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/shubhranshu-arya/).
+I'm always excited to connect with fellow developers, tech enthusiasts, and anyone interested in innovative software solutions. Feel free to reach out to me via [email](locklee0418@gmail.com).
 
 ---
 
