@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anh+Khuat!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgian+Matei!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Hanoi, Vietnam </h3>
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Anh Quan Khuat** , a developer based in London, specializing in financial technology with a focus on AI-driven solutions. With a background in full-stack development and an MSc. in FinTech, I’m dedicated to leveraging advanced technology to create impactful solutions that address real-world challenges. I love learning about new technologies and enjoy finding creative ways to use what I’ve learned to make a positive difference.
+Hi, I'm **Georgian Matei** , a developer based in London, specializing in financial technology with a focus on AI-driven solutions. With a background in full-stack development and an MSc. in FinTech, I’m dedicated to leveraging advanced technology to create impactful solutions that address real-world challenges. I love learning about new technologies and enjoy finding creative ways to use what I’ve learned to make a positive difference.
 
 ---
 
